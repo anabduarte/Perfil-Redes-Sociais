@@ -1,5 +1,5 @@
 @font-face {
-    font-family: Inter;
+    font-family: 'Inter';
     src: url(/assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
 
@@ -35,13 +35,13 @@ img {
 }
 
 #title {
-    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     color: white;
     text-align: center;
 }
 
 #subtitle {
-    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     color: #F285A2;
     text-align: center;
     text-shadow:  #f2d0d790 1px 1px 3px
@@ -49,7 +49,7 @@ img {
 
 #description {
     padding: 5px;
-    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     color: #F285A2;
     text-shadow:  #f2d0d790 1px 1px 3px;
     text-align: center;
@@ -75,18 +75,18 @@ img {
     color: white;
     text-shadow:  #f2d0d790 1px 1px 2px;
     text-decoration: none;
-    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
 footer {
     margin-top: 50px
 }
 p {
     color: #F285A2;
-    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-weight: 700;
     text-align: center;
 }
 a {
     color: #BF2C47;
-    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
